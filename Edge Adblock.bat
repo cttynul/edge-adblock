@@ -56,6 +56,8 @@ ECHO Edge Adblock makes the internet not suck. It provides blocking
 ECHO malicious and ads website.
 ECHO Hosts file used in this script is provided by www.someonewhocares.org
 ECHO.
+ECHO Run this at your own risk. I'm not responsible for any damages.
+ECHO.
 ECHO 1 - Enable Edge Adblock
 ECHO 2 - Disable Edge Adblock
 ECHO 3 - About
