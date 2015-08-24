@@ -19,17 +19,17 @@ ECHO.
 ECHO                          BY WWW.HEISENBUG.EU.ORG                          
 ECHO  ___________________________________________________________________________
 ECHO.
-ECHO Admin permissions required. Detecting permissions...
+ECHO Admin permissions required. E I TERRENI GRAZIE...
 
 NET SESSION >nul 2>&1
 IF %ERRORLEVEL% == 0 (
 	ECHO.
-    ECHO Success: Admin permissions confirmed.
+    ECHO Success: HO OTTENUTO I TERRENI.
     GOTO MENU
 ) ELSE (
 	ECHO.
-	ECHO ################ ERROR: ADMINISTRATOR PRIVILEGES REQUIRED ################
-	ECHO Failure: Current permissions inadequate.
+	ECHO ################ ERROR: CARMINE NON MI VUOLE DARE I TERRENI ##############
+	ECHO Failure: Viva la topa.
 	ECHO This script needs to be run as admin. (Right click - Run as Admin)
 	ECHO ##########################################################################
 	ECHO.
@@ -58,9 +58,9 @@ ECHO Hosts file used in this script is provided by www.someonewhocares.org
 ECHO.
 ECHO Run this at your own risk. I'm not responsible for any damages.
 ECHO.
-ECHO 1 - Enable Edge Adblock
-ECHO 2 - Disable Edge Adblock
-ECHO 3 - About
+ECHO 1 - COMPRA I TERRENI
+ECHO 2 - VENDI I TERRENI
+ECHO 3 - ABORTO
 ECHO 4 - Exit
 ECHO.
 
