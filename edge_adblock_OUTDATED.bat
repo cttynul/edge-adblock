@@ -1,5 +1,5 @@
 ECHO OFF
-TITLE Edge Adblock
+TITLE Edge Adblock OUTDATED
 CLS
 MODE con:cols=80 lines=30
 COLOR f0
@@ -16,7 +16,7 @@ ECHO                   __/ !
 ECHO                  !___/                                    
 ECHO  ___________________________________________________________________________
 ECHO.
-ECHO                          BY WWW.HEISENBUG.EU.ORG                          
+ECHO                       OUTDATED, DOWNLOAD NEW .BAT FILE                          
 ECHO  ___________________________________________________________________________
 ECHO.
 ECHO Admin permissions required. Detecting permissions...
@@ -49,7 +49,7 @@ ECHO                   __/ !
 ECHO                  !___/                                    
 ECHO  ___________________________________________________________________________
 ECHO.
-ECHO                          BY WWW.HEISENBUG.EU.ORG                          
+ECHO                       OUTDATED, DOWNLOAD NEW .BAT FILE                          
 ECHO  ___________________________________________________________________________
 ECHO.
 ECHO Edge Adblock makes the internet not suck. It provides blocking
@@ -107,7 +107,7 @@ ECHO                   __/ !
 ECHO                  !___/                                    
 ECHO  ___________________________________________________________________________
 ECHO.
-ECHO                          BY WWW.HEISENBUG.EU.ORG                          
+ECHO                       OUTDATED, DOWNLOAD NEW .BAT FILE                          
 ECHO  ___________________________________________________________________________
 ECHO.
 ECHO Edge Adblock makes the internet not suck. It provides blocking
@@ -117,8 +117,7 @@ ECHO www.someonewhocares.org
 ECHO.
 ECHO To make this script working run bat file as admin.
 ECHO Edge Adblock requires Windows 7, 8, 8.1 or 10.
-ECHO Project on GitHub https://github.com/zegt/
-ECHO Visit https://www.heisenbug.eu.org
+ECHO Project on GitHub https://github.com/cttynul/
 ECHO.
 PAUSE
 CLS
