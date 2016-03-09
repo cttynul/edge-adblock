@@ -1,7 +1,9 @@
-Edge Adblock
+Edge Telemetry&Ads Block
 ======
 ###Introduction
-Edge Adblock makes the internet not suck. It provides blocking malicious and ads website. Hosts file used in this script is provided by [Dan Pollock](http://someonewhocares.org).
+Edge Telemetry&Ads Block makes the internet not suck. It provides blocking malicious and ads website. Now it blocks **Windows 10 Telemetry**! 
+
+Hosts file used in this script is provided by [**Dan Pollock**](http://someonewhocares.org).
 
 Edge Adblock **IS NOT** a Microsoft Edge addon, it hide ads and phishing websites redirecting them to localhost, use it until Edge will support addon.
 
