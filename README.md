@@ -5,20 +5,20 @@ Edge Telemetry&Ads Block makes the internet not suck. It provides blocking malic
 
 Hosts file used in this script is provided by [**Dan Pollock**](http://someonewhocares.org).
 
-Edge Adblock **IS NOT** a Microsoft Edge addon, it hide ads and phishing websites redirecting them to localhost, use it until Edge will support addon.
+Edge Adblock **IS NOT** a Microsoft Edge addon, it hides ads and phishing websites redirecting them to localhost, use it until Edge will support addon.
 
 **Disclaimer**: Run this at **YOUR OWN RISK**. I'm NOT responsible for any damages.
 
-![edgeadblock](https://cloud.githubusercontent.com/assets/11434351/9430348/12c9d170-49f2-11e5-93fc-c346041fbceb.png)
+![edgeadblock](https://i.imgur.com/54jjpD9.png)
 
 ### How to install
 1) Download last release from:
 
 `
-https://github.com/zegt/edge-adblock/releases/
+https://github.com/cttynul/edge-telemetry-ads-block/releases/
 `
 
-2) Unzip and run bat file as admin
+2) Unzip and run **Edge Telemetry Adsblock.bat** file as admin
 
 3) Enjoy
 
