@@ -73,7 +73,13 @@ IF %M%==4 GOTO EOF
 
 :ENABLE
 SET hostpath=%Windir%\System32\drivers\etc
-COPY %hostpath%\hosts hosts.back
+ECHO.
+ECHO  ___________________________________________________________________________
+ECHO .
+ECHO DEVELOPER MESSAGE: If requested select F as File! This will backup ur config 
+ECHO  ___________________________________________________________________________
+ECHO.
+XCOPY /f /y %hostpath%\hosts %hostpath%\hosts_back
 TYPE "%~dp0hosts" >> %hostpath%\hosts
 REGEDIT "%~dp0regenable.reg"
 ECHO Edge Adblock Enabled - Launch dir: "%~dp0" >> %hostpath%\edgeadblock.log
@@ -87,7 +93,7 @@ GOTO MENU
 :DISABLE
 SET hostpath=%Windir%\System32\drivers\etc
 DEL %hostpath%\hosts
-REN %hostpath%\hosts.back hosts
+REN %hostpath%\hosts_back hosts
 REGEDIT "%~dp0regdisable.reg"
 ECHO Edge Adblock Disabled - Launch dir: "%~dp0" >> %hostpath%\edgeadblock.log
 ECHO Done! Log file created %hostpath%\edgeadblock.log
@@ -119,7 +125,7 @@ ECHO www.someonewhocares.org
 ECHO.
 ECHO To make this script working run bat file as admin.
 ECHO Edge Adblock requires Windows 7, 8, 8.1 or 10.
-ECHO Project on GitHub https://github.com/zegt/
+ECHO Project on GitHub https://github.com/cttynul/
 ECHO.
 PAUSE
 CLS
