@@ -15,7 +15,7 @@ Edge Adblock **IS NOT** a Microsoft Edge addon, it hides ads and phishing websit
 1) Download last release from:
 
 `
-https://github.com/cttynul/edge-telemetry-ads-block/releases/
+https://github.com/cttynul/edge-adblock/releases/
 `
 
 2) Unzip and run **Edge Telemetry Adsblock.bat** file as admin
