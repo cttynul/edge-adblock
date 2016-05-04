@@ -1,5 +1,5 @@
 ECHO OFF
-TITLE Edge Ads Telemetry block
+TITLE Edge Adblock
 CLS
 MODE con:cols=80 lines=30
 COLOR f0
