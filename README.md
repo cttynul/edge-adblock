@@ -1,7 +1,7 @@
-Edge Telemetry&Ads Block
+Edge Adblock
 ======
 ###Introduction
-Edge Telemetry&Ads Block makes the internet not suck. It provides blocking malicious and ads website. Now it blocks **Windows 10 Telemetry**! 
+Edge Adblock makes the internet not suck. It provides blocking malicious and ads website. Now it blocks **Windows 10 Telemetry**! 
 
 Hosts file used in this script is provided by [**Dan Pollock**](http://someonewhocares.org).
 
@@ -22,5 +22,9 @@ https://github.com/cttynul/edge-adblock/releases/
 
 3) Enjoy
 
+### License
+GNU General Public License.
+
 ### Thanks to
 - [Dan Pollock](http://someonewhocares.org) for hosts file.
+- [Adguard](https://adguard.com) for mirroring my code on [Edgeadblock.com](http://edgeadblock.com)
