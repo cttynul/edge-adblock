@@ -9,7 +9,7 @@ Edge Adblock **IS NOT** a Microsoft Edge addon, it hides ads and phishing websit
 
 **Disclaimer**: Run this at **YOUR OWN RISK**. I'm NOT responsible for any damages.
 
-![edgeadblock](https://i.imgur.com/54jjpD9.png)
+![edgeadblock](https://i.imgur.com/3S7RbI3.png)
 
 ### How to install
 1) Download last release from:
