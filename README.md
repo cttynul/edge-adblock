@@ -1,6 +1,6 @@
 Edge Adblock
 ======
-###Introduction
+### Introduction
 Edge Adblock makes the internet not suck. It provides blocking malicious and ads website. Now it blocks **Windows 10 Telemetry**! 
 
 Hosts file used in this script is provided by [**Dan Pollock**](http://someonewhocares.org).
