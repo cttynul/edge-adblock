@@ -55,7 +55,7 @@ IF %ERRORLEVEL% == 0 (
 >>"%temp%\gethosts.vbs" ECHO .SaveToFile pix, 2 'adSaveCreateOverwrite
 >>"%temp%\gethosts.vbs" ECHO .Close
 >>"%temp%\gethosts.vbs" ECHO End With
-cscript /nologo "%temp%\gethosts.vbs" http://someonewhocares.org/hosts/hosts "%~dp0hosts" 2>nul 
+cscript /nologo "%temp%\gethosts.vbs" https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts "%~dp0hosts" 2>nul 
 DEL "%temp%\gethosts.vbs"
 GOTO EOF
 
