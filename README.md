@@ -26,5 +26,5 @@ https://github.com/cttynul/edge-adblock/releases/
 GNU General Public License.
 
 ### Thanks to
-- [Dan Pollock](http://someonewhocares.org) for hosts file.
+- [Steven Black](https://github.com/StevenBlack) for his [hosts file](https://github.com/StevenBlack/hosts).
 - [Adguard](https://adguard.com) for mirroring my code on [Edgeadblock.com](http://edgeadblock.com)
